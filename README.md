@@ -3,23 +3,23 @@
 <h1 align="center">Hi 👋, I'm Ahshan Habib <br/>I am frontend developer from Bangladesh</h1>
 
  
-<h2>👀 Current overview</h2>
- 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+## 👀 Current overview
+ <a href="https://app.daily.dev/devcard" target="blank">
+ <img align="right" alt="Coding" width="220" height="270"  src="https://api.daily.dev/devcards/f6f7afac6a2b4cfe9d819a78963e466d.png?r=vnb">
+</a>
 
- <div>
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ahshanhabibatik&label=Profile%20views&color=0e75b6&style=flat" alt="ahshanhabibatik" />
-  </p>
+<p align="left">
+  <img style="margin-top: 10px;" src="https://komarev.com/ghpvc/?username=ahshanhabibatik&label=Profile%20views&color=0e75b6&style=flat" alt="ahshanhabibatik" />
+</p>
 
-  <ul style="font-size: 20px;">
-    <li>🔭 I’m currently working on **University management</li>
-    <li>🌱 I’m currently learning **React</li>
-    <li>👯 I’m looking to collaborate on **GitHub</li>
-    <li>💬 Ask me about **React Tailwind Node.js MongoDb</li>
-    <li>📫 How to reach me **ahshanhabibatik25@gmail.com</li>
+<ul style="font-size: 22px;">
+    <li>🔭 I’m currently working on **University management**</li>
+    <li>🌱 I’m currently learning **React**</li>
+    <li>👯 I’m looking to collaborate on **GitHub**</li>
+    <li>💬 Ask me about **React Tailwind Node.js MongoDb**</li>
+    <li>📫 How to reach me **ahshanhabibatik25@gmail.com**</li>
   </ul>
-</div>
+
 
 
  <a href="https://app.daily.dev/ahshan">
@@ -71,22 +71,20 @@
 </p><br/>
 
 
-## 👀 Current overview
- <a href="https://app.daily.dev/devcard" target="blank">
- <img align="right" alt="Coding" width="220" height="270"  src="https://api.daily.dev/devcards/f6f7afac6a2b4cfe9d819a78963e466d.png?r=vnb">
-</a>
-
-<p align="left">
-  <img style="margin-top: 10px;" src="https://komarev.com/ghpvc/?username=ahshanhabibatik&label=Profile%20views&color=0e75b6&style=flat" alt="ahshanhabibatik" />
+## 📈 Current Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahshanhabibatik&show_icons=true&locale=en&layout=compact" alt="ahshanhabibatik" />
 </p>
 
-<ul style="font-size: 22px;">
-    <li>🔭 I’m currently working on **University management**</li>
-    <li>🌱 I’m currently learning **React**</li>
-    <li>👯 I’m looking to collaborate on **GitHub**</li>
-    <li>💬 Ask me about **React Tailwind Node.js MongoDb**</li>
-    <li>📫 How to reach me **ahshanhabibatik25@gmail.com**</li>
-  </ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahshanhabibatik&show_icons=true&locale=en" alt="ahshanhabibatik" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ahshanhabibatik%20&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 ## Github Wrapped Status (Please click image go to updated Wrapped Status)
