@@ -5,7 +5,7 @@
  
 ## 👀 Current overview
  <a href="https://app.daily.dev/devcard" target="blank">
- <img align="right" alt="Coding" width="220" height="270"  src="https://api.daily.dev/devcards/f6f7afac6a2b4cfe9d819a78963e466d.png?r=vnb">
+ <img align="right" alt="Coding" width="220" height="220"  src="https://api.daily.dev/devcards/f6f7afac6a2b4cfe9d819a78963e466d.png?r=vnb">
 </a>
 
 <p align="left">
