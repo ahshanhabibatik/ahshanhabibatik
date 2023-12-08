@@ -21,17 +21,6 @@
   </ul>
 
 
-
- <a href="https://app.daily.dev/ahshan">
-  <img height="300" width="250" src="https://api.daily.dev/devcards/f6f7afac6a2b4cfe9d819a78963e466d.png?r=vnb" alt="Ahshan's Dev Card"/>
-</a>
-</div>
-
-
-
-
-
-
 <h3 align="left" style="margin-top: 50px; border-bottom: 1px solid black;">📫Connect with me:</h3> 
 
 <br/>
