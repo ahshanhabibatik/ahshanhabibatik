@@ -12,7 +12,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahshanhabibatik&label=Profile%20views&color=0e75b6&style=flat" alt="ahshanhabibatik" />
   </p>
 
-  <ul style="font-size: 25px;">
+  <ul style="font-size: 20px;">
     <li>🔭 I’m currently working on **University management</li>
     <li>🌱 I’m currently learning **React</li>
     <li>👯 I’m looking to collaborate on **GitHub</li>
