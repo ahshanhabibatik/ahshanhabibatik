@@ -61,12 +61,22 @@
 
 
 ## 📈 Current Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahshanhabibatik&show_icons=true&locale=en&layout=compact" alt="ahshanhabibatik" />
-</p>
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/ahshanhabibatik/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/ahshanhabibatik/github-profile-summary-cards)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahshanhabibatik&show_icons=true&locale=en" alt="ahshanhabibatik" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahshanhabibatik&show_icons=true&locale=en&layout=compact&theme=dark" alt="ahshanhabibatik" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahshanhabibatik&show_icons=true&locale=en&theme=dark" alt="ahshanhabibatik" />
 </p>
 
 <p align="center">
