@@ -56,7 +56,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/ahshanhabibatik/ahshanhabibatik/main/node.png"/>
 <img src="https://raw.githubusercontent.com/ahshanhabibatik/ahshanhabibatik/main/express.png"/>
-<img src="https://raw.githubusercontent.com/ahshanhabibatik/ahshanhabibatik/main/express.png"/>
+
 </p><br/>
 
 
